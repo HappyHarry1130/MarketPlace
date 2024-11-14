@@ -2,7 +2,7 @@
 
 ## How to use
 
-Install it and run d:
+Install it and run:
 
 ```sh
 npm install
